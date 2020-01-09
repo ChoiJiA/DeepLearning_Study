@@ -4,5 +4,5 @@
 1. [머신러닝의 개념과 용어](https://blog.naver.com/chlwldk1998/221765482762)    
   -- [Tensorflow Operation 구현](/code/Section1_Tensorflow_Operation.ipynb)
 2. [Linear Regression의 개념](https://blog.naver.com/chlwldk1998/221765898015)    
-  -- [Linear Regression 구현(/code/Section2_Linear_Regression.ipynb)    
+  -- [Linear Regression 구현](/code/Section2_Linear_Regression.ipynb)    
   -- [Linear Regression(Placeholder) 구현.ipynb](/code/Section2_1_Linear_Regression_Placeholder.ipynb)

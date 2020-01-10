@@ -8,4 +8,6 @@
   -- [Linear Regression(Placeholder) 구현](/code/Section2_1_Linear_Regression_Placeholder.ipynb)
 3. [Linear Regression cost 함수 최소화](https://blog.naver.com/chlwldk1998/221766697948)    
   -- [Linear Regression 경사하강법 적용 구현 ](/code/Section3_Linear_Regression_minimize_cost.ipynb)    
-4. [여러개의 입력(feature)의 Linear Regression](https://blog.naver.com/chlwldk1998/221766778613)    
+4. [여러개의 입력(feature)의 Linear Regression](https://blog.naver.com/chlwldk1998/221766778613)        
+  -- [Multi-variable Linear Regression 구현](/code/Section4_multi-variable_linear_regression.ipynb)      
+  -- [Loading Data from File & Linear Regression 구현](/code/Section4_Loading_Data_from_File.ipynb)    

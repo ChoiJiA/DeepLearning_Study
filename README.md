@@ -6,5 +6,5 @@
 2. [Linear Regression의 개념](https://blog.naver.com/chlwldk1998/221765898015)    
   -- [Linear Regression 구현](/code/Section2_Linear_Regression.ipynb)    
   -- [Linear Regression(Placeholder) 구현](/code/Section2_1_Linear_Regression_Placeholder.ipynb)
-3. [Linear Regression cost 함수 최소화](https://blog.naver.com/chlwldk1998/221766697948)
+3. [Linear Regression cost 함수 최소화](https://blog.naver.com/chlwldk1998/221766697948)    
   -- [Linear Regression 경사하강법 적용 구현 ](/code/Section3_Linear_Regression_minimize_cost.ipynb)    

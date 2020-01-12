@@ -15,3 +15,4 @@
   -- [Logistic Classification 구현](/code/Section5_Logistic_Classification.ipynb)      
   -- [Diabetes Logistic Classification 구현](/code/Section5_Logistic_Classification_Diabetes.ipynb)        
 6. [Softmax Regression (Multinomial Logistic Regression)](https://blog.naver.com/chlwldk1998/221769216219)    
+  --[Softmax Classification 구현](/code/Section6_Softmax_Classification.ipynb)

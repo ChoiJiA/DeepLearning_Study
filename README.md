@@ -14,3 +14,4 @@
 5. [Logistic (Regression) Classification(이진 분류)](https://blog.naver.com/chlwldk1998/221768331899)    
   -- [Logistic Classification 구현](/code/Section5_Logistic_Classification.ipynb)      
   -- [Diabetes Logistic Classification 구현](/code/Section5_Logistic_Classification_Diabetes.ipynb)        
+6. [Softmax Regression (Multinomial Logistic Regression)](https://blog.naver.com/chlwldk1998/221769216219)    

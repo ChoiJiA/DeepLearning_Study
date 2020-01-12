@@ -11,4 +11,6 @@
 4. [여러개의 입력(feature)의 Linear Regression](https://blog.naver.com/chlwldk1998/221766778613)        
   -- [Multi-variable Linear Regression 구현](/code/Section4_multi-variable_linear_regression.ipynb)      
   -- [Loading Data from File & Linear Regression 구현](/code/Section4_Loading_Data_from_File.ipynb)    
-5. [Logistic (Regression) Classification](https://blog.naver.com/chlwldk1998/221768331899)    
+5. [Logistic (Regression) Classification(이진 분류)](https://blog.naver.com/chlwldk1998/221768331899)    
+  -- [Logistic Classification 구현](/code/Section5_Logistic_Classification.ipynb)      
+  -- [Diabetes Logistic Classification 구현](/code/Section5_Logistic_Classification_Diabetes.ipynb)        

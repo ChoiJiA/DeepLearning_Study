@@ -17,3 +17,5 @@
 6. [Softmax Regression (Multinomial Logistic Regression)](https://blog.naver.com/chlwldk1998/221769216219)    
   --[Softmax Classification 구현](/code/Section6_Softmax_Classification.ipynb)    
 7. [ML의 실용과 몇가지 팁(Learning Rate, Train/Validation/Test sets)](https://blog.naver.com/chlwldk1998/221769970272)    
+  --[학습률, Training/Testing셋 적용 구현](/code/Section7_LearningRate_and_Evaluation.ipynb)
+  --[MNIST 구현](/code/Section7_mnist.ipynb)

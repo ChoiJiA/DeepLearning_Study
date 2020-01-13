@@ -19,3 +19,4 @@
 7. [ML의 실용과 몇가지 팁(Learning Rate, Train/Validation/Test sets)](https://blog.naver.com/chlwldk1998/221769970272)    
   --[학습률, Training/Testing셋 적용 구현](/code/Section7_LearningRate_and_Evaluation.ipynb)    
   --[MNIST 구현](/code/Section7_mnist.ipynb)    
+8. [딥러닝의 기본 개념과, 문제, 그리고 해결](https://blog.naver.com/chlwldk1998/221770047162)    

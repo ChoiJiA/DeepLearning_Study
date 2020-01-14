@@ -21,3 +21,4 @@
   --[MNIST 구현](/code/Section7_mnist.ipynb)    
 8. [딥러닝의 기본 개념과, 문제, 그리고 해결](https://blog.naver.com/chlwldk1998/221770047162)    
   --[Tensor Manipulation](/code/Section8_Tensor_Manipulation.ipynb)    
+9. [Neural Network 1: XOR 문제와 학습방법, Backpropagation](https://blog.naver.com/chlwldk1998/221771935354)    

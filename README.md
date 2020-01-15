@@ -24,6 +24,7 @@
 9. [Neural Network 1: XOR 문제와 학습방법, Backpropagation](https://blog.naver.com/chlwldk1998/221771935354)    
   --[XOR Tensorflow 구현](/code/Section9_XOR_tensorflow_deepNetwork.ipynb)    
 10. [Neural Network 2 : ReLU and 초기값 정하기](https://blog.naver.com/chlwldk1998/221772659269) & [Dropout and Ensemble](https://blog.naver.com/chlwldk1998/221772803986)    
+  --[MNIST examples](/code/Section10_MNIST_examples.ipynb)    
 
 
     

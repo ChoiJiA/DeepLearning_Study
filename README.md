@@ -26,6 +26,8 @@
 10. [Neural Network 2 : ReLU and 초기값 정하기](https://blog.naver.com/chlwldk1998/221772659269) & [Dropout and Ensemble](https://blog.naver.com/chlwldk1998/221772803986)    
   --[MNIST examples](/code/Section10_MNIST_examples.ipynb)    
 11. [Convolutional Neural Networks(CNN)](https://blog.naver.com/chlwldk1998/221773957073)    
+  --[Tensorflow CNN Basics](/code/Section11_CNN_Basics.ipynb)    
+
 
 
 

@@ -28,6 +28,7 @@
 11. [Convolutional Neural Networks(CNN)](https://blog.naver.com/chlwldk1998/221773957073)    
   --[Tensorflow CNN Basics](/code/Section11_CNN_Basics.ipynb)    
 12. [Recurrent Neural Network(RNN)](https://blog.naver.com/chlwldk1998/221775207034)    
+  --[Tensorflow RNN Basics](/code/Section12_RNN_Basic.ipynb)    
 13. [Deep Deep Network AWS 에서 GPU와 돌려보기](https://blog.naver.com/chlwldk1998/221776502664)    
 
 
